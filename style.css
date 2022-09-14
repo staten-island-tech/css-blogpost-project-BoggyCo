@@ -1,0 +1,33 @@
+body {
+    background-color: coral;
+    text-align: center;
+}
+
+div {
+    background-color:burlywood;
+    
+    border-radius: 10px;
+    font-family: 'Kanit', sans-serif;
+}
+.headers {
+    padding: 0.25%;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+
+}
+h1 {
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+h2 {
+    margin-top: 0px;
+}
+
+.art {
+    display: inline-block;
+
+    width: 25%;
+    margin: auto;
+}
+
