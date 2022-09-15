@@ -1,24 +1,30 @@
 body {
-    background-color: coral;
+    background-color: rgb(175, 12, 55);
     text-align: center;
 }
 
 div {
-    background-color:burlywood;
+    background-color:rgb(127, 207, 214);
     
     border-radius: 10px;
     font-family: 'Kanit', sans-serif;
+    padding-top: 0px;
+    border: 5px solid rgb(81, 133, 137);
+    border-width: ;
 }
-.headers {
+#headers {
     padding: 0.25%;
     text-align: center;
     width: 70%;
     margin: auto;
+    
 
 }
 h1 {
     font-size: 70px;
     margin-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 0px;
 }
 h2 {
     margin-top: 0px;
@@ -29,5 +35,15 @@ h2 {
 
     width: 25%;
     margin: auto;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.title {
+
+}
+
+.images {
+    width: 80%;
 }
 
