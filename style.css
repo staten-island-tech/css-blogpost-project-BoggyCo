@@ -9,8 +9,7 @@ div {
     border-radius: 10px;
     font-family: 'Kanit', sans-serif;
     padding-top: 0px;
-    border: 5px solid rgb(81, 133, 137);
-    border-width: ;
+    border: 5px solid rgb(81, 133, 137);    
 }
 #headers {
     padding: 0.25%;
@@ -34,16 +33,31 @@ h2 {
     display: inline-block;
 
     width: 25%;
-    margin: auto;
+    margin: auto;   
     margin-top: 10px;
     margin-left: 10px;
 
 }
 .title {
-
+    font-size: ;
 }
 
 .images {
     width: 80%;
 }
 
+.container {
+    width: 100px;
+    height: 100px;
+    color
+}
+.fire {
+    width:100px;
+    position: absolute;
+    display: block;
+    top: 10px;
+}
+.body {
+    width: 90%;
+    margin: 10px auto;
+}
