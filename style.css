@@ -11,6 +11,7 @@ div {
     padding-top: 0px;
     border: 5px solid rgb(81, 133, 137);  
     vertical-align:top;  
+    color: black; 
 }
 #headers {
     padding: 0.25%;
@@ -37,15 +38,18 @@ h2 {
     margin: auto;   
     margin-top: 10px;
     margin-left: 10px;
-    
+    height:625px;
 
 }
 .title {
-    font-size: ;
+    font-size: 40px;
+    font-weight: bolder;
+    margin: auto;
 }
 
 .images {
     width: 80%;
+    
 }
 
 .fire {
